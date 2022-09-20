@@ -1,0 +1,12 @@
+.svg-container {
+  background-color: #282c34;
+}
+
+.group-container {
+}
+
+.arc {
+  stroke: whitesmoke;
+  transform: translate(250,250);
+
+}

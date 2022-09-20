@@ -1,0 +1,8 @@
+.bar-chart-svg {
+  background-color: rgb(145, 183, 214);
+  border: 1px solid rgb(145, 183, 214);
+}
+
+.rects {
+  fill: #282c34
+}
